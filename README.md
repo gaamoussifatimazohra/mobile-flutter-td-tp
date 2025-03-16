@@ -1,21 +1,16 @@
-# 📱 Module Mobile avec Flutter - Travaux Dirigés & Pratiques 🚀  
+# project_client
 
-Bienvenue dans le repo officiel du **Module Mobile avec Flutter**. Ce repo contient tous les **Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** pour apprendre le développement mobile (Flutter).  
+A new Flutter project.
 
-## 📂 Contenu du dépôt  
+## Getting Started
 
-### 📌 Travaux Dirigés (TDs)  
+This project is a starting point for a Flutter application.
 
-- **[TD1 - Gestion d’un Système de Commandes en Dart](TD1/TD1.md)** 🛠  
-  Ce TD vous permettra de pratiquer la manipulation des listes, la gestion des entrées/sorties et la gestion des erreurs en Dart.   
+A few resources to get you started if this is your first Flutter project:
 
-### 🛠 Travaux Pratiques (TPs)  
-Les TPs sont des mises en pratique avancées pour développer des applications complètes.  
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- **[TP1 - Développement d’une API et d’un client Dart](TP1/TP1.md)** 💻  
-  Implémentation d’une API Express.js pour la gestion des produits et commandes, et développement d’un client Dart.  
-
-
-
-
-🎯 **Bonne programmation et amusez-vous avec Flutter !** 🚀🔥  
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

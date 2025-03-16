@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nom": "Produit Modifié",
+    "prix": 39.99,
+    "stock": 5,
+    "categorie": "Électronique"
+  },
+  {
+    "nom": "Nouveau Produit",
+    "prix": 29.99,
+    "stock": 10,
+    "categorie": "Électronique",
+    "id": 2
+  },
+  {
+    "nom": "Nouveau Produit",
+    "prix": 29.99,
+    "stock": 10,
+    "categorie": "Électronique",
+    "id": 3
+  },
+  {
+    "nom": "Tablette",
+    "prix": 1500,
+    "stock": 10,
+    "categorie": "Électronique",
+    "id": 4
+  },
+  {
+    "nom": "Tablette",
+    "prix": 1500,
+    "stock": 10,
+    "categorie": "Électronique",
+    "id": 5
+  }
+]
